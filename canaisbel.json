@@ -12,48 +12,7 @@
       "landscape_mode_as_default_player_orientation": false
     }
   ],
-  "ads": [
-      {
-      "ad_status": 1,
-      "main_ads": "applovin",
-      "backup_ads": "ironsource",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
-      "startapp_app_id": "0",
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "79c3122d9750eaf8",
-      "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
-      "applovin_open_ad_unit_id": "0",
-      "applovin_banner_zone_id": "0",
-      "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "198d746f5",
-      "ironsource_banner_id": "DefaultBanner",
-      "ironsource_interstitial_id": "DefaultInterstitial",
-      "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
-      "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
-      "wortise_interstitial_unit_id": "--",
-      "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
-      "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
-      "interstitial_ad_interval": 2,
-      "native_ad_index": 2
-    }
-  ],
   
-  
-  
- 
   "channels": [
       
 
@@ -223,5 +182,4 @@
 
 
 
-  ]
-}
+]
