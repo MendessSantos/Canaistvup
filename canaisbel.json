@@ -14,7 +14,7 @@
   ],
   "ads": [
       {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
       "admob_banner_unit_id": "",
@@ -64,7 +64,7 @@
 
 
 	{
-      "title": "Cagliari X ao vivkko",
+      "title": "Cagliari X ao yyyyko",
       "category": "Italiano - 10H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "<iframe src='https://reidabola.online/star.php?id=Q2FnbGlhcmkgdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
