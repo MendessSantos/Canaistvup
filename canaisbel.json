@@ -54,7 +54,7 @@
   
   
  
-  "channels": [
+   "channels": [
       
 
 
@@ -64,11 +64,11 @@
 
 
 	{
-      "title": "Cagliari X ao yyyyko",
-      "category": "Italiano - 10H00",
+      "title": "Newcastle X Everton",
+      "category": "Inglês - 15H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=Q2FnbGlhcmkgdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=Q2FnbGlhcmkgdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TmV3Y2FzdGxlIFVuaXRlZCB2cy4gRXZlcnRvbg=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TmV3Y2FzdGxlIFVuaXRlZCB2cy4gRXZlcnRvbg=='></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -78,11 +78,25 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Sassuolo X Udinese",
-      "category": "Italiano - 10H00",
+      "title": "Burnley X Wolves",
+      "category": "Inglês - 15H45",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star2.php?id=U2Fzc3VvbG8gdnMuIFVkaW5lc2U='></iframe>",
-      "source2": "",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=QnVybmxleSB2cy4gV29sdmVyaGFtcHRvbg=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=QnVybmxleSB2cy4gV29sdmVyaGFtcHRvbg=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Bournemouth X Crystal Palace",
+      "category": "Inglês - 15H45",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=Qm91cm5lbW91dGggdnMuIENyeXN0YWwgUGFsYWNl'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=Qm91cm5lbW91dGggdnMuIENyeXN0YWwgUGFsYWNl'></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -92,31 +106,11 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },	
 	{
-      "title": "Stoke City X Huddersfield",
-      "category": "Inglês 2 - 11H00",
+      "title": "Juventus X Lazio",
+      "category": "Copa Itália - 16H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
-      "source3": "",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-
-	{
-      "title": "Lecce X Roma",
-      "category": "Italiano - 13H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=SnV2ZW50dXMgdnMuIExhemlvIHwgU2VtaWZpbmFsLCBpZGE='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=SnV2ZW50dXMgdnMuIExhemlvIHwgU2VtaWZpbmFsLCBpZGE='></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -126,31 +120,11 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Ipswich X Southampton",
-      "category": "Inglês 2 - 13H30",
+      "title": "Al-Hilal X Al Akhdoud",
+      "category": "Saudita - 16H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=SXBzd2ljaCBUb3duIHZzLiBTb3V0aGFtcHRvbg=='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=SXBzd2ljaCBUb3duIHZzLiBTb3V0aGFtcHRvbg=='></iframe>",
-      "source3": "",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-
-	{
-      "title": "Inter X Empoli",
-      "category": "Italiano - 15H45",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=SW50ZXIgdnMuIEVtcG9saQ=='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=SW50ZXIgdnMuIEVtcG9saQ=='></iframe>",
+      "source1": "<iframe src='https://dalamoka.online/bandpl.php?id=k4zJYnMtSZF1CgztoGS'></iframe>",
+      "source2": "<iframe src='https://dalamoka.online/bandpl.php?id=k4zJYnMtSZF1CgztoGS'></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -160,7 +134,7 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Al-Ahli X Al-Ittihad",
+      "title": "Abha X Al-Nassr",
       "category": "Saudita - 16H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "<iframe src='https://dalamoka.online/024BRA/bandsp_dgo.html'></iframe>",
@@ -174,11 +148,11 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Leeds X Hull City",
-      "category": "Inglês 2 - 16H00",
+      "title": "West Ham X Tottenham",
+      "category": "Inglês - 16H15",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=TGVlZHMgVW5pdGVkIHZzLiBIdWxsIENpdHk='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGVlZHMgVW5pdGVkIHZzLiBIdWxsIENpdHk='></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=V2VzdCBIYW0gVW5pdGVkIHZzLiBUb3R0ZW5oYW0gSG90c3B1cg=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=V2VzdCBIYW0gVW5pdGVkIHZzLiBUb3R0ZW5oYW0='></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -188,11 +162,67 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Villarreal X Atletico Madrid",
-      "category": "Espanhol - 16H00",
+      "title": "Benfica X Sporting",
+      "category": "Taça de Portugal - 16H45",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=VmlsbGFycmVhbCB2cy4gQXRsw6l0aWNvIE1hZHJpZA=='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=VmlsbGFycmVhbCB2cy4gQXRsw6l0aWNvIE1hZHJpZA=='></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=QmVuZmljYSB2cy4gU3BvcnRpbmcgQ1AgfCBTZW1pZmluYWwsIHZ1ZWx0YQ=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=QmVuZmljYSB2cy4gU3BvcnRpbmcgQ1A='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+
+	{
+      "title": "Belgrano Cordoba X Internacional",
+      "category": "Sul-Americana - 19H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+      "source2": "<iframe src='https://reidabola.online/star3.php?id=QmVsZ3Jhbm8gdnMuIEludGVybmFjaW9uYWw='></iframe>",
+      "source3": "",
+      "referer1": "",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Millonarios X Flamengo",
+      "category": "Libertadores - 19H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v2.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+
+	{
+      "title": "The Strongest X Grêmio",
+      "category": "Libertadores - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=VGhlIFN0cm9uZ2VzdCAoQk9MKSB2cy4gR3JlbWlvIChCUkEp'></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
@@ -202,20 +232,42 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
-      "title": "Portimonense X Braga",
-      "category": "Português - 16H15",
+      "title": "Sportivo Ameliano X Athletico-PR",
+      "category": "Sul-Americana - 21H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=UG9ydGltb25lbnNlIHZzLiBCcmFnYQ=='></iframe>",
-      "source2": "",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=SmFuZWxhIENvbXBsZXRhIHwgU3BvcnRpdm8gQW1lbGlhbm8gKFBBUikgeCBBdGhsZXRpY28gUGFyYW5hZW5zZSAoQlJBKQ=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=U3BvcnRpdm8gQW1lbGlhbm8gKFBBUikgdnMuIEF0aGxldGljbyBQYXJhbmFlbnNlIChCUkEp'></iframe>",
       "source3": "",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Racing Montevideo X Corinthians",
+      "category": "Sul-Americana - 21H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/sbt.html'></iframe>",
+      "source2": "https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8",
+      "source3": "https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "",
+      "referer3": "",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
 
+
+
+
+
+
+
+  ]
+}
 
 
 
