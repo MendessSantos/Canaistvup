@@ -13,7 +13,7 @@
     }
   ],
   "ads": [
-    {
+      {
       "ad_status": 0,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
@@ -50,70 +50,178 @@
       "native_ad_index": 2
     }
   ],
+  
+  
+  
+ 
   "channels": [
-    {
-      "title": "teste ddd",
+      
+
+
+	
+
+
+
+
+	{
+      "title": "Cagliari X ao yyyyko",
       "category": "Italiano - 10H00",
-      "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "sources": [
-        {
-          "source": "<iframe src='https://reidoscanais.com/embed/?id=paramountplus4alternativo'></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        },
-        {
-          "source": "<iframe src='https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8SB'></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        }
-      ]
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=Q2FnbGlhcmkgdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=Q2FnbGlhcmkgdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
-    {
+	{
       "title": "Sassuolo X Udinese",
       "category": "Italiano - 10H00",
-      "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "sources": [
-        {
-          "source": "<iframe src='https://reidabola.online/star2.php?id=U2Fzc3VvbG8gdnMuIFVkaW5lc2U='></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        }
-      ]
-    },
-    {
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star2.php?id=U2Fzc3VvbG8gdnMuIFVkaW5lc2U='></iframe>",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },	
+	{
       "title": "Stoke City X Huddersfield",
       "category": "Inglês 2 - 11H00",
-      "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "sources": [
-        {
-          "source": "<iframe src='https://reidabola.online/star.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        },
-        {
-          "source": "<iframe src='https://reidabola.online/star2.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        }
-      ]
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=U3Rva2UgQ2l0eSB2cy4gSHVkZGVyc2ZpZWxkIFRvd24='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
-    {
+
+
+
+
+
+
+	{
       "title": "Lecce X Roma",
       "category": "Italiano - 13H00",
-      "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "sources": [
-        {
-          "source": "<iframe src='https://reidabola.online/star.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        },
-        {
-          "source": "<iframe src='https://reidabola.online/star2.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
-          "referer": "https://futebolplayhd.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10)"
-        }
-      ]
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGVjY2UgdnMuIFJvbWE='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
-    // More channel entries can be added similarly...
+	{
+      "title": "Ipswich X Southampton",
+      "category": "Inglês 2 - 13H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=SXBzd2ljaCBUb3duIHZzLiBTb3V0aGFtcHRvbg=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=SXBzd2ljaCBUb3duIHZzLiBTb3V0aGFtcHRvbg=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+	{
+      "title": "Inter X Empoli",
+      "category": "Italiano - 15H45",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=SW50ZXIgdnMuIEVtcG9saQ=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=SW50ZXIgdnMuIEVtcG9saQ=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Al-Ahli X Al-Ittihad",
+      "category": "Saudita - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://dalamoka.online/024BRA/bandsp_dgo.html'></iframe>",
+      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
+      "source3": "<iframe src='https://dalamoka.online/024BRA/bandsp_dgo.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Leeds X Hull City",
+      "category": "Inglês 2 - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TGVlZHMgVW5pdGVkIHZzLiBIdWxsIENpdHk='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGVlZHMgVW5pdGVkIHZzLiBIdWxsIENpdHk='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Villarreal X Atletico Madrid",
+      "category": "Espanhol - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=VmlsbGFycmVhbCB2cy4gQXRsw6l0aWNvIE1hZHJpZA=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=VmlsbGFycmVhbCB2cy4gQXRsw6l0aWNvIE1hZHJpZA=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Portimonense X Braga",
+      "category": "Português - 16H15",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=UG9ydGltb25lbnNlIHZzLiBCcmFnYQ=='></iframe>",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    }
+
+
+
+
+
+
+
+
   ]
-}
+  }
