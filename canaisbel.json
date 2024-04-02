@@ -17,15 +17,15 @@
       "ad_status": 0,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
-      "admob_banner_unit_id": "",
-      "admob_interstitial_unit_id": "",
-      "admob_native_unit_id": "",
-      "admob_app_open_unit_id": "",
-      "ad_manager_banner_unit_id": "",
-      "ad_manager_interstitial_unit_id": "",
-      "ad_manager_native_unit_id": "",
-      "ad_manager_app_open_unit_id": "",
-      "fan_banner_unit_id": "",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
       "startapp_app_id": "0",
@@ -54,7 +54,7 @@
   
   
  
-   "channels": [
+  "channels": [
       
 
 
@@ -64,7 +64,7 @@
 
 
 	{
-      "title": "Newcastle X Everton",
+      "title": "Newcastle UP X Everton",
       "category": "Inglês - 15H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "<iframe src='https://reidabola.online/star.php?id=TmV3Y2FzdGxlIFVuaXRlZCB2cy4gRXZlcnRvbg=='></iframe>",
@@ -259,15 +259,6 @@
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
-
-
-
-
-
-
-
-  ]
-}
 
 
 
