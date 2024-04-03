@@ -64,19 +64,18 @@
 
 
 	{
-      "title": "Burnley X Wolves KK",
-  "category": "Inglês - 15H45",
-  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-  "team_names_color": "red", // Adicionando a chave para definir a cor dos nomes dos times
-  "source1": "<iframe src='https://reidabola.online/star.php?id=QnVybmxleSB2cy4gV29sdmVyaGFtcHRvbg=='></iframe>",
-  "source2": "<iframe src='https://reidabola.online/star2.php?id=QnVybmxleSB2cy4gV29sdmVyaGFtcHRvbg=='></iframe>",
-  "source3": "",
-  "referer1": "https://futebolplayhd.com/",
-  "referer2": "https://futebolplayhd.com/",
-  "referer3": "https://futebolplayhd.com/",
-  "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-  "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-  "user_agent3": "Mozilla/5.0 (Linux; Android 10)""
+      "title": "Newcastle  X Everton",
+      "category": "Inglês - 15H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TmV3Y2FzdGxlIFVuaXRlZCB2cy4gRXZlcnRvbg=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TmV3Y2FzdGxlIFVuaXRlZCB2cy4gRXZlcnRvbg=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
 	{
       "title": "Burnley X Wolves",
