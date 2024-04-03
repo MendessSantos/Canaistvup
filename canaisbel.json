@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "status": 1,
+      "status": 0,
       "inter_activity1": "no",     
       "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
       "redirect_url": "https://play.google.com/store/apps/details?id=",
@@ -65,7 +65,7 @@
 
 
 	{
-      "title": "Arsenal X Luton",
+      "title": "ArsenalX X Luton",
       "category": "Inglês - 15H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "<iframe src='https://pasadola.com/024BRA/v5.html'></iframe>",
