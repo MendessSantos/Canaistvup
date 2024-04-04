@@ -1,166 +1,166 @@
 {
-    "apps": [
+  "apps": [
+    {
+      "status": 1,
+      "inter_activity1": "no",     
+      "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
+      "redirect_url": "https://play.google.com/store/apps/details?id=",
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "landscape_mode_as_default_player_orientation": false
+    }
+  ],
+  "ads": [
       {
-        "status": 1,
-        "inter_activity1": "no",     
-        "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
-        "redirect_url": "https://play.google.com/store/apps/details?id=",
-        "enable_rtl_mode": false,
-        "enable_exit_dialog": true,
-        "enable_vpn_access": false,
-        "enable_dark_mode_as_default_theme": false,
-        "landscape_mode_as_default_player_orientation": false
-      }
-    ],
-    "ads": [
-        {
-        "ad_status": 0,
-        "main_ads": "applovin",
-        "backup_ads": "ironsource",
-        "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-        "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-        "ad_manager_banner_unit_id": "/6499/example/banner",
-        "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-        "ad_manager_native_unit_id": "/6499/example/native",
-        "ad_manager_app_open_unit_id": "/6499/example/app-open",
-        "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-        "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-        "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
-        "startapp_app_id": "0",
-        "unity_game_id": "4089993",
-        "unity_banner_placement_id": "banner",
-        "unity_interstitial_placement_id": "video",
-        "applovin_banner_unit_id": "0",
-        "applovin_interstitial_unit_id": "79c3122d9750eaf8",
-        "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
-        "applovin_open_ad_unit_id": "0",
-        "applovin_banner_zone_id": "0",
-        "applovin_interstitial_zone_id": "0",
-        "ironsource_app_key": "198d746f5",
-        "ironsource_banner_id": "DefaultBanner",
-        "ironsource_interstitial_id": "DefaultInterstitial",
-        "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
-        "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
-        "wortise_interstitial_unit_id": "--",
-        "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
-        "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
-        "interstitial_ad_interval": 2,
-        "native_ad_index": 2
-      }
-    ],
-    
-    
-    
-   
-    "channels": [
-        
+      "ad_status": 1,
+      "main_ads": "applovin",
+      "backup_ads": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "79c3122d9750eaf8",
+      "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "198d746f5",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
+      "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
+      "wortise_interstitial_unit_id": "--",
+      "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
+      "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 2
+    }
+  ],
   
   
+  
+ 
+  "channels": [
       
-  
-  
-  
-  
-  
-  
-      {
-        "title": "CANAIS GLOBO",
-        "category": "Espanhol - 15H00",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='//デ-ン-ッ-ク-ス-ン-デ-ド-ド-ル-ボ-ラ-ルグレフト-ブムフクトプドラア.ジ-1l1-グ.ッ-22-ク-11-ス-33-ル-99-プ-75-ゾ--エ--ブ--ス-ッ.ク.ス.ズ.ク.ジ.シグナルパブリコ-公共の標識-バレウドットクウグトットズヒ.セール/player3/ch.php?canal=boborj'></iframe>",
-        "source2": "<iframe src='https://reidabola.online/star2.php?id=R3JhbmFkYSB2cy4gVmFsZW5jaWE='></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Liverpool X Sheffield Utd",
-        "category": "Inglês - 15H30",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='https://reidabola.online/star.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
-        "source2": "<iframe src='https://reidabola.online/star2.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Chelsea X Man United",
-        "category": "Inglês - 16H15",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
-        "source2": "<iframe src='https://pasadola.com/024BRA/v2.html'></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-  
-  
-  
-  
-  
-  
-      {
-        "title": "Caracas X Atlético-MG",
-        "category": "Libertadores - 19H00",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
-        "source2": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Talleres Cordoba X São Paulo",
-        "category": "Libertadores - 21H00",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
-        "source2": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      },
-      {
-        "title": "Universidad Catolica X Cruzeiro",
-        "category": "Sul-Americana - 21H00",
-        "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-        "source1": "<iframe src='https://reidabola.online/star.php?id=VW5pdmVyc2lkYWQgQ2F0w7NsaWNhIHZzLiBDcnV6ZWlybw=='></iframe>",
-        "source2": "<iframe src='https://reidabola.online/star.php?id=VW5pdmVyc2lkYWQgQ2F0w7NsaWNhIHZzLiBDcnV6ZWlybw=='></iframe>",
-        "source3": "",
-        "referer1": "https://futebolplayhd.com/",
-        "referer2": "https://futebolplayhd.com/",
-        "referer3": "https://futebolplayhd.com/",
-        "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-        "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-      }
-  
-  
-  
-  
-  
-  
-  
-    ]
-  }
+
+
+	
+
+
+
+
+
+
+	{
+      "title": "Granada X Valencia",
+      "category": "Espanhol - 15H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=R3JhbmFkYSB2cy4gVmFsZW5jaWE='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=R3JhbmFkYSB2cy4gVmFsZW5jaWE='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Liverpool X Sheffield Utd",
+      "category": "Inglês - 15H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Chelsea X Man United",
+      "category": "Inglês - 16H15",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v2.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+	{
+      "title": "Caracas X Atlético-MG",
+      "category": "Libertadores - 19H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Talleres Cordoba X São Paulo",
+      "category": "Libertadores - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Universidad Catolica X Cruzeiro",
+      "category": "Sul-Americana - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v4.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v4.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    }
+
+
+
+
+
+
+
+  ]
+}
