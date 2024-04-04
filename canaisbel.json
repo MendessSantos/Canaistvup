@@ -14,7 +14,7 @@
   ],
   "ads": [
       {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -60,6 +60,101 @@
 
 	
 
+
+
+
+
+
+	{
+      "title": "Granada X Valencia",
+      "category": "Espanhol - 15H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=R3JhbmFkYSB2cy4gVmFsZW5jaWE='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=R3JhbmFkYSB2cy4gVmFsZW5jaWE='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Liverpool X Sheffield Utd",
+      "category": "Inglês - 15H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGl2ZXJwb29sIHZzLiBTaGVmZmllbGQgVW5pdGVk'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Chelsea X Man United",
+      "category": "Inglês - 16H15",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v2.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+	{
+      "title": "Caracas X Atlético-MG",
+      "category": "Libertadores - 19H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v1.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Talleres Cordoba X São Paulo",
+      "category": "Libertadores - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
+      "source2": "<iframe src='https://pasadola.com/024BRA/v3.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+	{
+      "title": "Universidad Catolica X Cruzeiro",
+      "category": "Sul-Americana - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=VW5pdmVyc2lkYWQgQ2F0w7NsaWNhIHZzLiBDcnV6ZWlybw=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star.php?id=VW5pdmVyc2lkYWQgQ2F0w7NsaWNhIHZzLiBDcnV6ZWlybw=='></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    }
 
 
 
