@@ -59,7 +59,21 @@
 
 
 	
-
+{
+      
+      "title": "CANAIS REDE GLOBO",
+      "category": "Inglês - 08H30",
+	  "image": "https://yt3.googleusercontent.com/pDz-3PLM8c4Y7iBYWAd70qwF59ct9sGqTgxo0l_Fm-0krdETIWrpNA33DkEXufNfIok48rPV7g=s900-c-k-c0x00ffffff-no-rj",
+      "source1": "<iframe src='https://playertv.net/c/d.php?id=globoAM'></iframe>",
+      "source2": "<iframe src='https://playertv.net/c/d.php?id=globoAM'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
 
 
 
