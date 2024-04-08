@@ -14,7 +14,7 @@
   ],
   "ads": [
       {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -62,27 +62,62 @@
 
 
 
-	
-	
-	{
-      "title": "SEM JOGOS NO MOMENTO",
-      "category": "VOLTE EM BREVE",
-	  "image": "https://www.gov.br/mre/pt-br/consulado-atlanta/imagens/atencao.png/@@images/image.png",
-      "source1": "",
-      "source2": "",
-      "source3": "",
-      "referer1": "",
+
+    
+    {
+      "title": "Al-Ittihad X Al Wehda",
+      "category": "Super Cup Saudita - 14H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
+      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
+      "source3": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
       "referer2": "",
-      "referer3": "",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    
+    
+    
+    
+    
+    
+    {
+      "title": "Udinese X Inter",
+      "category": "Italiano - 15H45",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Al-Hilal X Al-Nassr",
+      "category": "Super Cup Saudita - 16H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
+      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
+      "source3": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "",
+      "referer3": "https://futebolplayhd.com/",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
-
-
-
-
-
+    
+    
+    
+    
+    
+    
 
   ]
-	}
+}
