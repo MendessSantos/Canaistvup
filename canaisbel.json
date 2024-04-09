@@ -1,37 +1,37 @@
 {
-  "apps": [
+  "aplicativos": [
     {
       "status": 1,
-      "inter_activity1": "no",     
+      "inter_atividade1": "não",     
       "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
       "redirect_url": "https://play.google.com/store/apps/details?id=",
-      "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
-      "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
-      "landscape_mode_as_default_player_orientation": false
+      "enable_rtl_mode": falso,
+      "enable_exit_dialog": verdadeiro,
+      "enable_vpn_access": falso,
+      "enable_dark_mode_as_default_theme": falso,
+      "landscape_mode_as_default_player_orientation": falso
     }
   ],
-  "ads": [
+  "Publicidades": [
       {
-      "ad_status": 0,
+      "status_anúncio": 0,
       "main_ads": "applovin",
-      "backup_ads": "ironsource",
+      "backup_ads": "fonte de ferro",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "ad_manager_banner_unit_id": "/6499/exemplo/banner",
+      "ad_manager_interstitial_unit_id": "/6499/exemplo/intersticial",
+      "ad_manager_native_unit_id": "/6499/exemplo/nativo",
+      "ad_manager_app_open_unit_id": "/6499/exemplo/app-open",
       "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "unity_interstitial_placement_id": "vídeo",
       "applovin_banner_unit_id": "0",
       "applovin_interstitial_unit_id": "79c3122d9750eaf8",
       "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
@@ -39,14 +39,14 @@
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
       "ironsource_app_key": "198d746f5",
-      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_banner_id": "Banner padrão",
       "ironsource_interstitial_id": "DefaultInterstitial",
       "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
       "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
       "wortise_interstitial_unit_id": "--",
       "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
       "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
-      "interstitial_ad_interval": 2,
+      "intersticial_ad_interval": 2,
       "native_ad_index": 2
     }
   ],
@@ -54,7 +54,7 @@
   
   
  
-  "channels": [
+  "canais": [
       
 
 
@@ -62,35 +62,18 @@
 
 
 
+    
+ 
 
-    
+
+
     {
-      "title": "Al-Ittihad X Al Wehda",
-      "category": "Super Cup Saudita - 14H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
-      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
-      "source3": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    
-    
-    
-    
-    
-    
-    {
-      "title": "Udinese X Inter",
-      "category": "Italiano - 15H45",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source3": "",
+      "título": "Grêmio X Huachipato",
+      "categoria": "Libertadores - 19H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -99,25 +82,80 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Al-Hilal X Al-Nassr",
-      "category": "Super Cup Saudita - 16H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
-      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
-      "source3": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
+      "title": "Corinthians X Nacional Assunção",
+      "categoria": "Sul-Americana - 19H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
       "referer1": "https://futebolplayhd.com/",
-      "referer2": "",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+    {
+      "título": "CRB X Botafogo-PB",
+      "categoria": "Copa do Nordeste - 20H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+
+    {
+      "title": "Fluminense X Colo Colo",
+      "categoria": "Libertadores - 21H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "fonte1": "",
+      "fonte2": "",
+      "fonte3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "título": "Atlético-PR X Rayo Zuliano",
+      "categoria": "Sul-Americana - 21H30",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "fonte1": "",
+      "fonte2": "",
+      "fonte3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
-    
-    
-    
-    
-    
-    
-
+	
+	
+	
+	
+	
+	
+	
   ]
 }
