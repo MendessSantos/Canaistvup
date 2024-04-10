@@ -62,69 +62,47 @@
 
 
 
-    
- 
+	
+	
+	
+    {
+      "title": "PSG X Barcelona",
+      "category": "Liga dos Campeões - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/var1.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/var1.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/024BRA/var1.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Atletico Madrid X Dortmund",
+      "category": "Liga dos Campeões - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/024BRA/var2.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/024BRA/var2.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/024BRA/var2.html'></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
 
 
 
     {
-      "title": "Grêmio X Huachipato",
+      "title": "Atlético-MG X Rosario Central",
       "category": "Libertadores - 19H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/024BRA/v2.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Corinthians X Nacional Asuncion",
-      "category": "Sul-Americana - 19H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-
-    {
-      "title": "CRB X Botafogo-PB",
-      "category": "Copa do Nordeste - 20H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/024BRA/nosso1.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-
-
-    {
-      "title": "Fluminense X Colo Colo",
-      "category": "Libertadores - 21H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "",
       "source2": "",
@@ -137,7 +115,42 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Athletico-PR X Rayo Zuliano",
+      "title": "Fortaleza X Nacional Potosi",
+      "category": "Sul-Americana - 19H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+
+
+    {
+      "title": "Internacional X Real Tomayapo",
+      "category": "Sul-Americana - 21H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Racing Club X RB Bragantino",
       "category": "Sul-Americana - 21H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
       "source1": "",
@@ -149,13 +162,70 @@
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "São Paulo X Cobresal",
+      "category": "Libertadores - 21H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Flamengo X Palestino",
+      "category": "Libertadores - 21H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Sport X Ceará",
+      "category": "Copa do Nordeste - 21H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Bahia X Náutico",
+      "category": "Copa do Nordeste - 21H30",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "",
+      "source2": "",
+      "source3": "",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
   ]
 }
