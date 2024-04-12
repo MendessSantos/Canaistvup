@@ -14,7 +14,7 @@
   ],
   "ads": [
       {
-      "ad_status": 0,
+      "ad_status": 1,
       "main_ads": "applovin",
       "backup_ads": "ironsource",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -59,39 +59,19 @@
 
 
 	
-
-
-
-
-
-
-    {
-      "title": "Al-Ittihad X Al-Hilal",
-      "category": "Super Cup - 14H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
-      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
-      "source3": "<iframe src='https://papadobola.com/024BRA/bandsp_dgo.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
 	
+
+
 	
-	
-	
-	
-	
+
+
     {
-      "title": "Bayer Leverkusen X West Ham",
-      "category": "Liga Europa - 16H00",
+      "title": "Augsburg X Union Berlin",
+      "category": "Alemão - 15H30",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star2.php?id=QmF5ZXIgTGV2ZXJrdXNlbiB2cy4gV2VzdCBIYW0gVW5pdGVk'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star2.php?id=QmF5ZXIgTGV2ZXJrdXNlbiB2cy4gV2VzdCBIYW0gVW5pdGVk'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star2.php?id=QmF5ZXIgTGV2ZXJrdXNlbiB2cy4gV2VzdCBIYW0gVW5pdGVk'></iframe>",
+      "source1": "<iframe src='https://reidabola.online/gl.php?id=6082049'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star.php?id=QXVnc2J1cmcgdnMuIFVuaW9uIEJlcmxpbg=='></iframe>",
+      "source3": "<iframe src='https://reidabola.online/gl.php?id=6082049'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -100,12 +80,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "AC Milan X Roma",
-      "category": "Liga Europa - 16H00",
+      "title": "Lazio X Salernitana",
+      "category": "Italiano - 15H45",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/cultura_dgo.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/cultura_dgo.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/024BRA/cultura_dgo.html'></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TGF6aW8gdnMuIFNhbGVybml0YW5h'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TGF6aW8gdnMuIFNhbGVybml0YW5h'></iframe>",
+      "source3": "<iframe src='https://reidabola.online/star.php?id=TGF6aW8gdnMuIFNhbGVybml0YW5h'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -114,12 +94,26 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Benfica X Marseille",
-      "category": "Liga Europa - 16H00",
+      "title": "Metz X Lens",
+      "category": "Francês - 16H00",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star2.php?id=QmVuZmljYSB2cy4gT2x5bXBpcXVlIE1hcnNlaWxsZQ=='></iframe>",
-      "source2": "<iframe src='https://receitasfoodbrasil.com/hd/play.php?id=65206e2d5db2e70001c50261'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star2.php?id=QmVuZmljYSB2cy4gT2x5bXBpcXVlIE1hcnNlaWxsZQ=='></iframe>",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=TWV0eiB2cy4gTGVucw=='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=TWV0eiB2cy4gTGVucw=='></iframe>",
+      "source3": "<iframe src='https://reidabola.online/star.php?id=TWV0eiB2cy4gTGVucw=='></iframe>",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },	
+    {
+      "title": "Real Betis X Celta Vigo",
+      "category": "Espanhol - 16H00",
+	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=QmV0aXMgdnMuIENlbHRhIGRlIFZpZ28='></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star2.php?id=QmV0aXMgdnMuIENlbHRhIGRlIFZpZ28='></iframe>",
+      "source3": "<iframe src='https://reidabola.online/star.php?id=QmV0aXMgdnMuIENlbHRhIGRlIFZpZ28='></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -128,78 +122,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Liverpool X Atalanta",
-      "category": "Liga Europa - 16H00",
+      "title": "GIL Vicente X Sporting",
+      "category": "Português - 16H15",
 	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/024BRA/v1.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-    {
-      "title": "LDU de Quito X Botafogo",
-      "category": "Libertadores - 19H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "",
-      "source2": "",
-      "source3": "",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Metropolitanos X Cuiabá",
-      "category": "Sul-Americana - 19H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "",
-      "source2": "",
-      "source3": "",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-    {
-      "title": "Palmeiras X Liverpool M.",
-      "category": "Libertadores - 21H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "",
-      "source2": "",
-      "source3": "",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Cruzeiro X Alianza Petrolera",
-      "category": "Sul-Americana - 21H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "",
-      "source2": "",
-      "source3": "",
+      "source1": "<iframe src='https://reidabola.online/star.php?id=R2lsIFZpY2VudGUgdnMuIFNwb3J0aW5n'></iframe>",
+      "source2": "<iframe src='https://reidabola.online/star.php?id=R2lsIFZpY2VudGUgdnMuIFNwb3J0aW5n'></iframe>",
+      "source3": "<iframe src='https://reidabola.online/star.php?id=R2lsIFZpY2VudGUgdnMuIFNwb3J0aW5n'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -213,5 +141,6 @@
 
 
 
+	
   ]
 }
