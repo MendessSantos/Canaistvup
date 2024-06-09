@@ -1,37 +1,37 @@
 {
-  "apps": [
+  "aplicativos": [
     {
       "status": 1,
-      "inter_activity1": "no",     
+      "inter_atividade1": "não",     
       "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
       "redirect_url": "https://play.google.com/store/apps/details?id=",
-      "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
-      "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
-      "landscape_mode_as_default_player_orientation": false
+      "enable_rtl_mode": falso,
+      "enable_exit_dialog": verdadeiro,
+      "enable_vpn_access": falso,
+      "enable_dark_mode_as_default_theme": falso,
+      "landscape_mode_as_default_player_orientation": falso
     }
   ],
-  "ads": [
+  "Publicidades": [
       {
-      "ad_status": 1,
+      "status_anúncio": 1,
       "main_ads": "applovin",
-      "backup_ads": "ironsource",
+      "backup_ads": "fonte de ferro",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "ad_manager_banner_unit_id": "/6499/exemplo/banner",
+      "ad_manager_interstitial_unit_id": "/6499/exemplo/intersticial",
+      "ad_manager_native_unit_id": "/6499/exemplo/nativo",
+      "ad_manager_app_open_unit_id": "/6499/exemplo/app-open",
       "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "unity_interstitial_placement_id": "vídeo",
       "applovin_banner_unit_id": "0",
       "applovin_interstitial_unit_id": "79c3122d9750eaf8",
       "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
@@ -39,14 +39,14 @@
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
       "ironsource_app_key": "198d746f5",
-      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_banner_id": "Banner padrão",
       "ironsource_interstitial_id": "DefaultInterstitial",
       "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
       "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
       "wortise_interstitial_unit_id": "--",
       "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
       "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
-      "interstitial_ad_interval": 2,
+      "intersticial_ad_interval": 2,
       "native_ad_index": 2
     }
   ],
@@ -54,7 +54,7 @@
   
   
  
-  "channels": [
+  "canais": [
       
 
 
@@ -67,144 +67,26 @@
 
 
     {
-      "title": "Juventus X AC Milan",
-      "category": "Italiano - 13H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=SnV2ZW50dXMgdnMuIEFDIE1pbGFu'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=SnV2ZW50dXMgdnMuIEFDIE1pbGFu'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=SnV2ZW50dXMgdnMuIEFDIE1pbGFu'></iframe>",
+      "título": "Itália X Bósnia e Herzegovina",
+      "category": "Seleções Amistosos - 15H45",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/STRBR/v1.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/es_cdn.html?id=02'></iframe>",
+      "source3": "<iframe src='https://reidabola.online/STRBR/v1.html'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
+    },	
     {
-      "title": "Everton X Brentford",
-      "category": "Inglês - 13H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=RXZlcnRvbiB2cy4gQnJlbnRmb3Jk'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=RXZlcnRvbiB2cy4gQnJlbnRmb3Jk'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=RXZlcnRvbiB2cy4gQnJlbnRmb3Jk'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Alavés X Celta Vigo",
-      "category": "Espanhol - 13H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=QWxhdsOpcyB2cy4gQ2VsdGE='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=QWxhdsOpcyB2cy4gQ2VsdGE='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=QWxhdsOpcyB2cy4gQ2VsdGE='></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Bayer Leverkusen X Stuttgart",
-      "category": "Alemão - 13H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8",
-      "source2": "<iframe src='https://reidabola.online/gl.php?id=3180419'></iframe>",
-      "source3": "https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8",
-      "referer1": "",
-      "referer2": "",
-      "referer3": "",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Benfica X Braga",
-      "category": "Português - 14H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=QmVuZmljYSB2cy4gQnJhZ2E='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=QmVuZmljYSB2cy4gQnJhZ2E='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=QmVuZmljYSB2cy4gQnJhZ2E='></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Al Khaleej X Al-Nassr",
-      "category": "Saudita - 15H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/bandsp_dgo.html'></iframe>",
-      "source2": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8",
-      "source3": "<iframe src='https://papadobola.com/BR2024/bandsp_dgo.html'></iframe>",
-      "referer1": "",
-      "referer2": "",
-      "referer3": "",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-
-    {
-      "title": "Lazio X Verona",
-      "category": "Italiano - 15H45",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=TGF6aW8gdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=TGF6aW8gdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=TGF6aW8gdnMuIEhlbGxhcyBWZXJvbmE='></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "PSG X Le Havre",
-      "category": "Francês - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=UFNHIHZzLiBMZSBIYXZyZSBBQw=='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=UFNHIHZzLiBMZSBIYXZyZSBBQw=='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=UFNHIHZzLiBMZSBIYXZyZSBBQw=='></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Aston Villa X Chelsea",
-      "category": "Inglês - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=QXN0b24gVmlsbGEgdnMuIENoZWxzZWE='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=QXN0b24gVmlsbGEgdnMuIENoZWxzZWE='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=QXN0b24gVmlsbGEgdnMuIENoZWxzZWE='></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Atletico Madrid X Athletic Club",
-      "category": "Espanhol - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/star.php?id=QXRsZXRpY28gTWFkcmlkIHZzLiBBdGhsZXRpYyBCaWxiYW8='></iframe>",
-      "source2": "<iframe src='https://reidabola.online/star.php?id=QXRsZXRpY28gTWFkcmlkIHZzLiBBdGhsZXRpYyBCaWxiYW8='></iframe>",
-      "source3": "<iframe src='https://reidabola.online/star.php?id=QXRsZXRpY28gTWFkcmlkIHZzLiBBdGhsZXRpYyBCaWxiYW8='></iframe>",
+      "título": "Eslováquia X Gales",
+      "category": "Seleções Amistosos - 15H45",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/STRBR/v2.html'></iframe>",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8",
+      "source3": "<iframe src='https://reidabola.online/STRBR/v2.html'></iframe>",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -218,97 +100,70 @@
 
 
 
+
     {
-      "title": "Vasco X Criciúma",
-      "category": "Série A - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc1_dgo.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/gl.php?id=6082049'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/pfc1_prm.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "CRB X Amazonas",
-      "category": "Série B - 17H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/gl.php?id=6942228'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/pfc4_prm.html'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/gl.php?id=6942228'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Paysandu X Botafogo-SP",
-      "category": "Série B - 17H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/gl.php?id=6942231'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/pfc5_prm.html'></iframe>",
-      "source3": "<iframe src='https://reidabola.online/gl.php?id=6942231'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "ABC X Náutico",
-      "category": "Série C - 17H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/nosso2.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/nosso2.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/nosso2.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Sampaio Correa X Figueirense",
-      "category": "Série C - 17H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "América-MG X Novorizontino",
-      "category": "Série B - 18H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc3_dgo.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/gl.php?id=6942216'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/pfc3_prm.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Cuiabá X Atlético-MG",
-      "category": "Série A - 18H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc2_dgo.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/gl.php?id=6942200'></iframe>",
+      "título": "Criciúma X Cuiabá",
+      "categoria": "Série A - 16H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/BR2024/pfc2_prm.html'></iframe>",
+      "fonte2": "https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8",
       "source3": "<iframe src='https://papadobola.com/BR2024/pfc2_prm.html'></iframe>",
+      "referente1": "",
+      "referente2": "",
+      "referente3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Avaí X Chapecoense",
+      "categoria": "Série B - 16H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/BR2024/pfc1_prm.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/BR2024/hls.html?id=10'></iframe>",
+      "fonte3": "https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8",
+      "referente1": "",
+      "referente2": "",
+      "referente3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "França X Canadá",
+      "category": "Seleções Amistosos - 16H15",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS12aXZvLXN lLXNwLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODAzNjE4OCwiaWF0IjoxNzE3OTQ5Nzg4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IiIsInBhdGgiOiIvbn UvZihiTWF4PTMzMDAwMDAsYk1pbj0yMDAwKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.Uuk 7e0XIZw-FnZsWfnyb5Nu-86iEymphHducojCQP4awcsaRgHm-vpmJlY9lSvAOiODYwrHWjRGG KHnTSChoaQbsLWDt5nlfmrOd7lGJh8CZHFYtmVwKj5EJIMSNnH3vXcG-rO_udBOHrKP6w8xOFVrvglvFo978oMu9_U6YxjVvv-kHid9_LrNJCbvmLtML5ZLFLaWEFXBKXL0fHlGlPHxds yy_AWldR24NjWNcnrYbiB98pXbCgk99zAHnAWaULyedf48uAzayomCdvypgt9Rag1K8T0udk AqMCWg57OjmF30_nf2BD_SwiMO1gy2p_3WZBlCvXqudz_WsGEvp_A/nu/f(bMax=3300000, bMin=2000)/spo124ha/ lista de reprodução.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8",
+      "fonte3": "https://sportscdn.net/hls/sportv.m3u8",
+      "referente1": "",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://vivolixopano.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "título": "CRB X Fortaleza",
+      "categoria": "Copa do Nordeste - 16H30",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://reidabola.online/STRBR/v3.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/BR2024/hls.html?id=03'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/BR2024/hls.html?id=11'></iframe>",
+      "referente1": "",
+      "referente2": "",
+      "referente3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "título": "Atlético Clube X Volta Redonda",
+      "categoria": "Série C - 16H30",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
+      "source3": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -317,12 +172,45 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "São Bernardo X Tombense",
-      "category": "Série C - 19H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/nosso3.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/nosso3.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/nosso3.html'></iframe>",
+      "título": "Botafogo-PB X Ferroviário",
+      "categoria": "Série C - 16H30",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8",
+      "source3": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8",
+      "referer1": "https://futebolplayhd.com/",
+      "referer2": "https://futebolplayhd.com/",
+      "referer3": "https://futebolplayhd.com/",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+
+
+
+
+
+    {
+      "title": "América-MG X Ponte Preta",
+      "categoria": "Série B - 18H30",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "<iframe src='https://papadobola.com/BR2024/pfc1_prm.html'></iframe>",
+      "source2": "<iframe src='https://papadobola.com/BR2024/hls.html?id=10'></iframe>",
+      "fonte3": "https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8",
+      "referente1": "",
+      "referente2": "",
+      "referente3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "título": "Remo X São Bernardo",
+      "categoria": "Série C - 19H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
+      "source3": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8",
       "referer1": "https://futebolplayhd.com/",
       "referer2": "https://futebolplayhd.com/",
       "referer3": "https://futebolplayhd.com/",
@@ -331,40 +219,39 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Athletic Club X Remo",
-      "category": "Série C - 19H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "source2": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/nosso1.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
+      "título": "Palmeiras X Corinthians",
+      "categoria": "Brasileirão Feminino - 19H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS12aXZvLXN lLXNwLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODAzNjIxNiwiaWF0IjoxNzE3OTQ5ODE2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjBkM2UwMmIzLWMwMG ItNDYxMC1iYWRkLWUyMGEyNDQ1YmNiNyIsInBhdGgiOiIvbnUvZihiTWF4PTMzMDAwMDasYk1pbj 0yMDAwKS9zcG8yMjRoYS9wbGF5bGlzdC5tM3U4In0.QHxmZ2v-wiqiExI5DTU69648aLoNVMTofz Wg4kv-PpHxda7j5OHHsLojG6NJEb0sBk8MG_BjaFOr25vo7jUsyie2NS9jkqWi8Bj_2PdJSx-r5bVHzhIGl4b2Lm7NiTxLEro0MjB1gvKh92gXfsBoynyhuDlLixaB4Gz4E3_u9V989N8VZd Cap9-Y18ftXigWLkbl13W3d5etSPjQ-3fC5j__CAdjwJUqp251nEekCELMrgcDWZ-F9XR9lu3Y9Dnnm7PyJTp8NACYIkOvoCTqsuSmsEiL2etMpmmv0UOqdBeU5rwxzfXCadQkC8NXw18I3wyyDGR NNiULrbchln6g5Q/nu/f(bMax=3300000,bMin=2000)/ spo224ha/playlist.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8",
+      "fonte3": "https://sportscdn.net/hls/sportv2.m3u8",
+      "referente1": "",
       "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
+      "referer3": "https://vivolixopano.com/",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
+    },	
     {
-      "title": "Bahia X Grêmio",
-      "category": "Série A - 21H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc1_dgo.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/gl.php?id=6082049'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BR2024/pfc1_prm.html'></iframe>",
-      "referer1": "https://futebolplayhd.com/",
+      "título": "Argentina X Equador",
+      "categoria": "Seleções Amistosos - 20H00",
+	  "imagem": "https://i.ibb.co/GvPzSNH/bbobo45.png",
+      "source1": "https://live.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS12aXZvLXN lLXNwLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcxODAzNjE4OCwiaWF0IjoxNzE3OTQ5Nzg4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IiIsInBhdGgiOiIvbn UvZihiTWF4PTMzMDAwMDAsYk1pbj0yMDAwKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.Uuk 7e0XIZw-FnZsWfnyb5Nu-86iEymphHducojCQP4awcsaRgHm-vpmJlY9lSvAOiODYwrHWjRGG KHnTSChoaQbsLWDt5nlfmrOd7lGJh8CZHFYtmVwKj5EJIMSNnH3vXcG-rO_udBOHrKP6w8xOFVrvglvFo978oMu9_U6YxjVvv-kHid9_LrNJCbvmLtML5ZLFLaWEFXBKXL0fHlGlPHxds yy_AWldR24NjWNcnrYbiB98pXbCgk99zAHnAWaULyedf48uAzayomCdvypgt9Rag1K8T0udk AqMCWg57OjmF30_nf2BD_SwiMO1gy2p_3WZBlCvXqudz_WsGEvp_A/nu/f(bMax=3300000, bMin=2000)/spo124ha/ lista de reprodução.m3u8",
+      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8",
+      "fonte3": "https://sportscdn.net/hls/sportv.m3u8",
+      "referente1": "",
       "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
+      "referer3": "https://vivolixopano.com/",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
   ]
 }
