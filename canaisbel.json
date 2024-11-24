@@ -2,8 +2,10 @@
   "apps": [
     {
       "status": 1,
-      "inter_activity1": "yes",     
-      "share_rate_url": "https://play.google.com/store/apps/details?id=com.futebolaovivo.FFFDAHORA",
+      "inter_activity1": "no",
+      "UserAgent_web": "yes",
+      "Value_UserAgent_web": "Mozilla/5.0 (Windows NT 10.0; Android 8.0.0)",
+      "share_rate_url": "https://play.google.com/store/apps/details?id=com.FuFuDaHora47.FutebolAoVivo",
       "redirect_url": "https://play.google.com/store/apps/details?id=",
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
@@ -15,8 +17,8 @@
   "ads": [
       {
       "ad_status": 1,
-      "main_ads": "applovin",
-      "backup_ads": "ironsource",
+      "main_ads": "bigo",
+      "backup_ads": "wortise",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -28,25 +30,29 @@
       "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
-      "startapp_app_id": "0",
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "startapp_app_id": "209473715",
+      "unity_game_id": "5709320",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
       "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "79c3122d9750eaf8",
-      "applovin_native_manual_unit_id": "ebe4f3ad5470471f",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
       "applovin_open_ad_unit_id": "0",
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "198d746f5",
+      "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
-      "wortise_app_key": "bcf46b28-5b9a-4aa7-b824-2bb3af6c2bda",
-      "wortise_banner_unit_id": "5ff8079f-feaf-44e3-adb6-5bb6822ac3b4",
-      "wortise_interstitial_unit_id": "--",
-      "wortise_native_unit_id": "ec31df3e-2cf1-4357-8592-d06398d839e9",
-      "wortise_app_open_ad_unit_id": "fec15b68-0941-4595-a5e5-59f8375153fb",
-      "interstitial_ad_interval": 2,
+      "wortise_app_key": "c4da0bec-725e-49c1-b48c-c37faa61cd06",
+      "wortise_banner_unit_id": "e7d36f54-9dc0-40a3-adaf-7e820454a747",
+      "wortise_interstitial_unit_id": "0",
+      "wortise_native_unit_id": "9734f2ef-145f-4b3c-a57e-37aa4e4b86ca",
+      "wortise_app_open_ad_unit_id": "c6ce4097-f746-47b9-a900-236285d2ed82",
+      "bigo_app_id": "10918378",
+      "bigo_banner_unit_id": "10918378-10916912",
+      "bigo_interstitial_unit_id": "10918378-10665810",
+      "bigo_native_unit_id": "10918378-10676145",
+      "interstitial_ad_interval": 3,
       "native_ad_index": 2
     }
   ],
@@ -62,17 +68,20 @@
 	
 
 
-
+    
+    
+    
+  
 
 
 
     {
-      "title": "Espanha X Georgia",
-      "category": "EuroCopa - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://youtu.be/U8ydbsGvpag'></iframe>",
-      "source2": "<iframe src='https://youtu.be/U8ydbsGvpag'></iframe>",
-      "source3": "<iframe src='https://youtu.be/U8ydbsGvpag'></iframe>",
+      "title": "Borussia M. X St. Pauli",
+      "category": "Alemão - 13H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://0126-tbx.dtvott.com/tvcultura/manifest.mpd?ck=OGVmOTA4NDJkOGRlNWY3OThlNTgyM2IxY2IyZmI0MTM6NjY5MTVkNjY3Y2MxNmIyY2Q2OTVjNGE2M2M4MDk2NzY=",
+      "source2": "<iframe src='https://la12hd.com/vivo/canal.php?stream=eleven3_pt'></iframe>",
+      "source3": "",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -81,12 +90,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Grêmio X Fluminense",
-      "category": "Série A - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc3_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc3.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc3.html'></iframe>",
+      "title": "Ipswich X Man United",
+      "category": "Inglês - 13H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://papadobola.com/TOTO_ES24/dz1.html'></iframe>",
+      "source2": "https://super-cdn.link/espn/index.m3u8",
+      "source3": "<iframe src='https://la12hd.com/vivo/canal.php?stream=eleven1_pt'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -95,26 +104,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "São Paulo X Bahia",
-      "category": "Série A - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc4_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc4.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc4.html'></iframe>",
-      "referer1": "",
-      "referer2": "",
-      "referer3": "",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Fortaleza X Juventude",
-      "category": "Série A - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc5_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc5.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc5.html'></iframe>",
+      "title": "Moreirense X Porto",
+      "category": "Taça de Portugal - 14H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv1'></iframe>",
+      "source2": "",
+      "source3": "",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -123,12 +118,82 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },	
     {
-      "title": "Paysandu X Operário-PR",
+      "title": "Napoli X Roma",
+      "category": "Italiano - 14H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv2'></iframe>",
+      "source2": "https://super-cdn.link/espn4/index.m3u8",
+      "source3": "",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Leganes X Real Madrid",
+      "category": "Espanhol - 14H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://papadobola.com/TOTO_ES24/la1.html'></iframe>",
+      "source2": "<iframe src='https://la12hd.com/vivo/canal.php?stream=eleven2_pt'></iframe>",
+      "source3": "",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Corinthians X Vasco",
+      "category": "Série A - 16H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd?ck=ZDk4MjM5MTgwZDgzODBiM2ExYmIyOGQ4NzViMWRkZjI6Y2Y4MzZjZWQ1NzkyNTdkMWM3NmFlODgwOTgxOGU2YzQ=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc1_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc1.html'></iframe>",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Internacional X RB Bragantino",
+      "category": "Série A - 16H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd?ck=ZmQyZTgwMTlmMzcyMTFjYThiNzhhOGI2NTZmMWI4M2E6MjczMTg5YzIxNGU4NWI0M2FjMzYyOThkMWM0MjIzMzA=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc2_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc2.html'></iframe>",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },	
+    {
+      "title": "Bahia X Athletico-PR",
+      "category": "Série A - 16H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd?ck=OTU0N2Y5YWVhZDEyMzdjOGEzYjFiZjBhOTFlZDk5OTU6NTM0ZmFiNDU0MWZlZjMxOTIxZGQ5NzBjNjVkNTE4NDg=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc3_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc3.html'></iframe>",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Paysandu X Vila Nova",
       "category": "Série B - 16H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc6_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc6.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc6.html'></iframe>",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd?ck=MDVjZWRjMzY2Y2U0ZWM3MzVlZTRiMzNmY2VmYmYwMWY6NDc1ZDZkZDQwZWFiYTY4OTZlMDJiMjZhNmNmMzRkOTU=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc6_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc6.html'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -137,45 +202,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Floresta X Caxias",
-      "category": "Série C - 16H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes13/playlist.m3u8",
-      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes13/playlist.m3u8",
-      "source3": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes13/playlist.m3u8",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Ferroviária X São José",
-      "category": "Série C - 16H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes14/playlist.m3u8",
-      "source2": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes14/playlist.m3u8",
-      "source3": "https://newedge.eu-central-1.edge.mycdn.live/live/esportes14/playlist.m3u8",
-      "referer1": "https://futebolplayhd.com/",
-      "referer2": "https://futebolplayhd.com/",
-      "referer3": "https://futebolplayhd.com/",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-
-
-
-
-
-    {
-      "title": "Flamengo X Cruzeiro",
-      "category": "Série A - 18H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc1_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc1.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc1.html'></iframe>",
+      "title": "CRB X Operário-PR",
+      "category": "Série B - 16H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd?ck=N2NlOTZlMDFlZWU1NGZiNzdlNWNjNGU3Yjc1M2Q2YjA6MTg0Zjk0MzAzZDMzNTdiOWE3MzgxY2NkZWVlOWI2MTE=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc7_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc7.html'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -184,12 +216,26 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Criciúma X Internacional",
-      "category": "Série A - 18H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc2_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc2.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc2.html'></iframe>",
+      "title": "Lazio X Bologna",
+      "category": "Italiano - 16H45",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://la12hd.com/vivo/canal.php?stream=sporttv1'></iframe>",
+      "source2": "https://super-cdn.link/espn/index.m3u8",
+      "source3": "",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },	
+    {
+      "title": "Athletic Club X Real Sociedad",
+      "category": "Espanhol - 17H00",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "<iframe src='https://papadobola.com/TOTO_ES24/la1.html'></iframe>",
+      "source2": "<iframe src='https://la12hd.com/vivo/canal.php?stream=eleven1_pt'></iframe>",
+      "source3": "",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -198,26 +244,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Vitória X Athletico-PR",
-      "category": "Série A - 18H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc5_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc5.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc5.html'></iframe>",
-      "referer1": "",
-      "referer2": "",
-      "referer3": "",
-      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
-      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
-    },
-    {
-      "title": "Guarani X Ponte Preta",
+      "title": "Sport X Santos",
       "category": "Série B - 18H30",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://papadobola.com/BR2024/pfc6_prm.html'></iframe>",
-      "source2": "<iframe src='https://reidabola.online/WB2024/pfc6.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/PR2024/pfc6.html'></iframe>",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd?ck=ZDk4MjM5MTgwZDgzODBiM2ExYmIyOGQ4NzViMWRkZjI6Y2Y4MzZjZWQ1NzkyNTdkMWM3NmFlODgwOTgxOGU2YzQ=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc1_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc1.html'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -226,12 +258,12 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "México X Equador",
-      "category": "Copa America - 21H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/WB2024/sp1.html'></iframe>",
-      "source2": "https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8",
-      "source3": "https://liveplay-cdn.com/sportv/tracks-v1a1/mono.m3u8",
+      "title": "Guarani X Ceará",
+      "category": "Série B - 18H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd?ck=ZmQyZTgwMTlmMzcyMTFjYThiNzhhOGI2NTZmMWI4M2E6MjczMTg5YzIxNGU4NWI0M2FjMzYyOThkMWM0MjIzMzA=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc2_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc2.html'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
@@ -240,19 +272,58 @@
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     },
     {
-      "title": "Jamaica X Venezuela",
-      "category": "Copa America - 21H00",
-	  "image": "https://i.ibb.co/GvPzSNH/bbobo45.png",
-      "source1": "<iframe src='https://reidabola.online/WB2024/sp2.html'></iframe>",
-      "source2": "https://sportscdn.net/live/sportv2_720p.m3u8",
-      "source3": "https://liveplay-cdn.com/sportv2/tracks-v1a1/mono.m3u8",
+      "title": "Mirassol X Chapecoense",
+      "category": "Série A - 18H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd?ck=OTU0N2Y5YWVhZDEyMzdjOGEzYjFiZjBhOTFlZDk5OTU6NTM0ZmFiNDU0MWZlZjMxOTIxZGQ5NzBjNjVkNTE4NDg=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc3_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc3.html'></iframe>",
       "referer1": "",
-      "referer2": "https://vivolixopano.com/",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },	
+    {
+      "title": "Goiás X Novorizontino",
+      "category": "Série B - 18H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd?ck=ZDVhM2FjMGI4OTJiZmNjZGYzNTJiNmRlZjljYjI3NjQ6YWMwOTM2YWNjMDAzNmZhZDIyNzNlZmFhNDJiMWZhZmQ=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc5_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc5.html'></iframe>",
+      "referer1": "",
+      "referer2": "",
+      "referer3": "",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "América-MG X Brusque",
+      "category": "Série B - 18H30",
+	  "image": "https://i.ibb.co/m585WGc/Jo47.png",
+      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd?ck=MDVjZWRjMzY2Y2U0ZWM3MzVlZTRiMzNmY2VmYmYwMWY6NDc1ZDZkZDQwZWFiYTY4OTZlMDJiMjZhNmNmMzRkOTU=",
+      "source2": "<iframe src='https://papadobola.com/TOTO_BR24/pfc6_prm.html'></iframe>",
+      "source3": "<iframe src='https://papadobola.com/TOTO_PRM24/pfc6.html'></iframe>",
+      "referer1": "",
+      "referer2": "",
       "referer3": "",
       "user_agent1": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
       "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
     }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
